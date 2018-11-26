@@ -1,6 +1,7 @@
-# JCCCHH
-Journal Club and Chi Chi He He
+# JCCCHH  📑📊🍗🍻
+**Journal Club and Chi Chi He He**
 
+## Previous
 Date | Speaker | Topic	| Content
 ---- | ------- | ----- | -------
 2018-07-19 | Xiaochun Cai | STARmap | [Paper](http://science.sciencemag.org/content/early/2018/06/20/science.aat5691)
@@ -9,6 +10,6 @@ Date | Speaker | Topic	| Content
 2018-10-07 | Jie Li | Biochemistry in micro-organisms | NA
 2018-11-25 | Yusi Chen | A lot of math | [Paper](https://www.nature.com/articles/nn.4650), [Content](2018-11-25-Yusi-Chen)
 
-Next Show:
+## Next
 Immunotherapy by Yun Zong and Boss Xie
 
