@@ -9,7 +9,9 @@ Date | Speaker | Topic	| Content
 2018-09-15 | Hanqing Liu	| Python Visualization | [Github Repo](https://github.com/lhqing/python_visualization)
 2018-10-07 | Jie Li | Biochemistry in micro-organisms | NA
 2018-11-25 | Yusi Chen | Successor Representation in <br/>Hippocampus (A lot of math) | [Paper](https://www.nature.com/articles/nn.4650), [Content](2018-11-25-Yusi-Chen)
+2019-01-19 | Qi Xie; Yuwenbin Li | Cancer immunotherapy | [Content](2019-01-19-Cancer_immu)
 
 ## Next
-Immunotherapy by Yun Zong and Boss Xie
+Pigeon
+
 
